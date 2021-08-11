@@ -83,5 +83,12 @@ color: black;
 
 .botao i{
 margin-right: 8px;
+}
 
+.containner{
+margin-left: 20px;
+}
+
+.filme-principal .containner{
+    width: 70%;
 }
