@@ -92,3 +92,9 @@ margin-left: 20px;
 .filme-principal .containner{
     width: 70%;
 }
+
+.box-filme{
+    height: 100%;
+    width: 100%;
+    display: block;
+}
